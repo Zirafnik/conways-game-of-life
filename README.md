@@ -22,3 +22,6 @@ You can find more details about Conway's Game of Life at [cornell.edu](http://pi
 ## Instructions:
 1. Clone the repo
 2. Run the program with `python3 conways.py`
+
+![Screenshot1](./screenshots/conways-game-screenshot1.JPG)
+![Screenshot2](./screenshots/conways-game-screenshot2.JPG)
