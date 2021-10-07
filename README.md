@@ -9,8 +9,8 @@ The initial pattern is the first generation. The second generation evolves from 
 
 ### Rules
 1. If the cell is alive, then it stays alive if it has either 2 or 3 live neighbors
-2. If the cell is dead, then it springs to life only in the case that it has 3 live neighbors
-3. All other cells die
+2. If the cell is dead, then it springs to life only in the case that it has exactly 3 live neighbors
+3. All other cells die or remain dead
 
 ## More details:    
 You can find more details about Conway's Game of Life at [cornell.edu](http://pi.math.cornell.edu/~lipa/mec/lesson6.html) and [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
